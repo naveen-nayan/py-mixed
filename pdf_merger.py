@@ -4,7 +4,7 @@ How to Use: name the file as 1.pdf, 2.pdf, 3.pdf as to merge
             Put the file to merge in the same working directory where py file is placed
 Output: merged_file.pdf
 used lbr: PYPDF2
-install: pip install PYPDF2
+install: pip install PyPDF2
 '''
 
 import PyPDF2
